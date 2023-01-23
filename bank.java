@@ -1,3 +1,11 @@
+void withdraw()
+{
+   :::::: Withdraw code ::::::
+   :::::: Withdraw code ::::::
+   :::::: Withdraw code ::::::
+   :::::: Withdraw code ::::::
+}
+
 void Deposite()
 {
    ::::::: Deposite code ::::::
